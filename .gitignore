@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.vscode/
+.idea/
+*.log
+.venv/
+venv/
+QUEST_TRACKER.md
+scratch/
