@@ -35592,7 +35592,7 @@
   {
     "id": 82978887,
     "unk": 0,
-    "text": "<colorw=FFFFFF80>Inventário <colorw=FFFFFF80>do <colorw=FFFFFF80>Mercador: clique com botão esquerdo no item que deseja comprar e a solicitação de compra se abrirá.<n>Clicando com o botão direito faz a compra imediatamente."
+    "text": "<colorw=FFFFFF80>Inventário do Mercador: clique com o botão esquerdo no item que deseja comprar para abrir a confirmação de compra.<n>O clique com o botão direito realiza a compra imediatamente."
   },
   {
     "id": 82978888,
