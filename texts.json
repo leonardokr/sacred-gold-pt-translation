@@ -35642,7 +35642,7 @@
   {
     "id": 82979000,
     "unk": 0,
-    "text": "<colorw=FFFFFF80>Livros de localização de missão. Se um livro se ilumina, marca a entrada da missão mais recente.<n><n>Um livro aberto indica uma missão incompleta e um fechado significa uma missão completada."
+    "text": "<colorw=FFFFFF80>Livros indicam locais de missões. Se um livro estiver brilhando, ele marca a entrada mais recente.<n><n>Um livro aberto indica uma missão em andamento e um livro fechado, uma missão concluída."
   },
   {
     "id": 82979001,
