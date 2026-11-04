@@ -66247,7 +66247,7 @@
   {
     "id": 827484100,
     "unk": 5,
-    "text": "Oponentes mortos até agora: %d%% + %d%% nível atual (nív. máx. %d)n"
+    "text": "Inimigos morrem à primeira vista: %d%% + %d%% nív. atual (nív. máx. %d)\\n"
   },
   {
     "id": 827492884,
