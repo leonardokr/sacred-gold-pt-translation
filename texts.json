@@ -97692,7 +97692,7 @@
   {
     "id": 1682916597,
     "unk": 0,
-    "text": "/?: Help<n>/w [accountname] Text: send private message to <accountname><n>/t Text: Send message to own team"
+    "text": "/?: Ajuda<n>/w [nome_da_conta] Texto: Envia mensagem privada para <nome_da_conta><n>/t Texto: Envia mensagem para a própria equipe"
   },
   {
     "id": 1682916598,
