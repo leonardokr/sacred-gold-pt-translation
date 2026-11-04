@@ -97702,7 +97702,7 @@
   {
     "id": 1682916599,
     "unk": 0,
-    "text": "/?: Help<n>/w [accountname] Text: Send private message to <accountname><n>/t Text: Send message to all party members<n>/s Number: Send private message to player <number><n>/friend list: Show Buddy list<n>/friend send Text: Send message to all friends"
+    "text": "/?: Ajuda<n>/w [nome_da_conta] Texto: Envia mensagem privada para <nome_da_conta><n>/t Texto: Envia mensagem para o grupo<n>/s [número] Texto: Envia mensagem privada para o jogador <número><n>/friend list: Mostra lista de amigos<n>/friend send Texto: Envia mensagem para todos os amigos"
   },
   {
     "id": 1683000160,
