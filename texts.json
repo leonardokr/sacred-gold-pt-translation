@@ -97697,7 +97697,7 @@
   {
     "id": 1682916598,
     "unk": 0,
-    "text": "/?: Help<n>/alarm: Send chatlog of all messages to administrator<n>/w [accountname] Text: Send private message to <accountname><n>/friend add <accountname>: Add <accountname> to Buddy list<n>/friend del <accountname>: Delete <accountname> from Buddy list<n>/friend list: Show Buddy list<n>/friend send Text: Send message to all friends "
+    "text": "/?: Ajuda<n>/alarm: Envia registro de chat para o administrador<n>/w [nome_da_conta] Texto: Envia mensagem privada para <nome_da_conta><n>/friend add [nome_da_conta]: Adiciona à lista de amigos<n>/friend del [nome_da_conta]: Remove da lista de amigos<n>/friend list: Mostra lista de amigos<n>/friend send Texto: Envia mensagem para todos os amigos"
   },
   {
     "id": 1682916599,
