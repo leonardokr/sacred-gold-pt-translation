@@ -37642,7 +37642,7 @@
   {
     "id": 108212207,
     "unk": 0,
-    "text": "ATENÇÃO: Servidor expirou. n Conexão caiu. "
+    "text": "ATENÇÃO: Tempo limite do servidor esgotado.<n>Conexão encerrada."
   },
   {
     "id": 108477543,
