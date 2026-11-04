@@ -8,3 +8,4 @@ __pycache__/
 venv/
 QUEST_TRACKER.md
 scratch/
+.agents/
