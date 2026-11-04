@@ -80772,7 +80772,7 @@
   {
     "id": 1389197862,
     "unk": 0,
-    "text": "Túmulo<n><n>10 vão para o inferno.<n>20 vão aos 10.<n>30 terminam."
+    "text": "Túmulo<n><n>10 GOTO inferno.<n>20 GOTO 10.<n>30 END."
   },
   {
     "id": 1389197863,
